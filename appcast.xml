@@ -1,6 +1,26 @@
 <?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
     <channel>
         <title>LittleWhisper</title>
+        <item>
+            <title>Version 1.1</title>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved editor prompt safety — prevents AI from responding to transcription content</li>
+                    <li>Fixed app launch crash on fresh install</li>
+                    <li>Editor modes now appear immediately in sidebar</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 06 Mar 2026 22:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="jGSp89xUj+lSIaZVfpJx/5d9UWzh7zTRj1jJEqZZths9OJVD/vlTK/8Dz498XKGURXEsxTUMZeknEjt3MchqAw=="
+                length="4044522"
+            />
+        </item>
     </channel>
 </rss>
