@@ -4,22 +4,22 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.2</title>
-            <sparkle:version>3</sparkle:version>
+            <sparkle:version>4</sparkle:version>
             <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Unified API keys section — all providers in one list with capability badges</li>
-                    <li>Improved model picker styling in editor view</li>
-                    <li>Better visual distinction between configured and unconfigured providers</li>
+                    <li>Simplified model selection — editor model is now chosen per-mode</li>
+                    <li>Improved editor model picker button styling</li>
+                    <li>Auto-selects valid provider when API keys change</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 07 Mar 2026 20:13:00 +0000</pubDate>
+            <pubDate>Sat, 08 Mar 2026 17:23:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.2.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="uXJ5NC9TK6EM02BcM1YqdKXIkKNqoHrf2v6MJiWr9S19gTZmZogoLn8wUDt689WcsdIcr2cphep1Czv7KnH2BQ=="
-                length="4099908"
+                sparkle:edSignature="NYGJgKDC5KyFuKup4s8m6vH4X+3yyeWe97X6ydsQJalKU1Evhl/r6ABSRn+qwCotEIFep/MpWkwK8guzZZD4Bg=="
+                length="4111036"
             />
         </item>
         <item>
