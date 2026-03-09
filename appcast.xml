@@ -4,7 +4,7 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.3</title>
-            <sparkle:version>1</sparkle:version>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -18,8 +18,8 @@
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.3.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="LynjL/SwOHwL24AFRlGPeRsXRbsyxpl9d+cGjumN+NqS41G+EKiF0A8sBhfn1QEw9nmC/z0lVSVh9CgSyMh1CA=="
-                length="5636937"
+                sparkle:edSignature="k35R9fD2lB92mvycMsngnhY3IJJVLlwgYVBrm4aAz2ioMIlLk1zs+dRvx1BVdRLL6MUuDsjH/2Xms65f+PDFBA=="
+                length="5636935"
             />
         </item>
         <item>
