@@ -4,22 +4,22 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.3</title>
-            <sparkle:version>6</sparkle:version>
+            <sparkle:version>7</sparkle:version>
             <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
                     <li>LittleWhisper Credits — use transcription and editing without API keys</li>
-                    <li>Sign in with Apple for secure, passwordless authentication</li>
+                    <li>Simple email sign-in with one-time code</li>
                     <li>Credit balance and purchasing integrated into Models page</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 09 Mar 2026 13:30:00 +0000</pubDate>
+            <pubDate>Sun, 09 Mar 2026 17:30:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.3.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="t+acnfsatU8wwVrarjgiepQkODS0gYyEICF3ImxsZlCU0BSofYHOfGdVUIIPtZemf7W0+L4JN/hUx049FVfxBw=="
-                length="5609465"
+                sparkle:edSignature="JcX7iW6JxnBV4gngjn6JMfFCnL9Gh90hEpgFlPl184zpj+4TqH9eQhXooSry5Tbm/kjD4kjHKDYbibgBIlIpAw=="
+                length="5629362"
             />
         </item>
         <item>
