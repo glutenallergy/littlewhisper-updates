@@ -4,25 +4,24 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.4</title>
-            <sparkle:version>10</sparkle:version>
+            <sparkle:version>11</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
+                    <li>Sign in with Apple — fast, secure authentication replaces email verification</li>
                     <li>App licensing — purchase once, unlock unlimited transcriptions with a year of updates</li>
                     <li>Activate, deactivate, and manage your license key directly in Settings</li>
                     <li>Network connectivity monitoring — warning indicator when offline with cloud transcription</li>
                     <li>Improved credit purchasing flow with per-hour cost estimates</li>
-                    <li>Better analytics and error reporting for cloud services</li>
-                    <li>Onboarding and upgrade prompts refined for clarity</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 11 Mar 2026 06:00:00 +0000</pubDate>
+            <pubDate>Tue, 11 Mar 2026 17:35:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.4.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="cCxHabvcADaUQ9mIDrGxeXRaXnSsU7FNbPdL2lHySoyw8zyVaANGXQyo9obja3SMPBZsasxUii4zyyEUeMBeAw=="
-                length="5789882"
+                sparkle:edSignature="tXjE+gUyioMss3XzXOwH5ucHut8BHPgtQ8N7H9uYweZk2PgN+Rt64eU3cKmpvdHEUBeHcfKA7X9n3LMxjikZAg=="
+                length="5784180"
             />
         </item>
         <item>
