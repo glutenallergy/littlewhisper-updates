@@ -4,26 +4,23 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.4</title>
-            <sparkle:version>14</sparkle:version>
+            <sparkle:version>15</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Sign in with Apple — fast, secure authentication replaces email verification</li>
-                    <li>App licensing — purchase once, unlock unlimited transcriptions with a year of updates</li>
-                    <li>Activate, deactivate, and manage your license key directly in Settings</li>
-                    <li>Network connectivity monitoring — warning indicator when offline with cloud transcription</li>
-                    <li>Improved credit purchasing flow with per-hour cost estimates</li>
-                    <li>Credit balance warnings before recording when low or empty</li>
-                    <li>Provider logos for OpenAI, Deepgram, and Groq in Models page</li>
+                    <li>Fixed credit purchases — credits now appear in your balance immediately</li>
+                    <li>Fixed cloud transcription with credits (resolved format error)</li>
+                    <li>Improved cloud service connectivity and authentication</li>
+                    <li>UI polish — cleaner credits card layout</li>
                 </ul>
             ]]></description>
-            <pubDate>Tue, 11 Mar 2026 19:39:00 +0000</pubDate>
+            <pubDate>Tue, 11 Mar 2026 22:50:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.4.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="xN+rlxQ/CX9O0H7oqb9cA8VwBzXRBOaVVqSQmWEGi1VJg/umRuqjS+dIkQF93XvzqP2Vn+5rD/AoWxu/OzirAQ=="
-                length="5800636"
+                sparkle:edSignature="q52ShULOKXKkO1lERpR8G8/rNSiQypZGBqm8J0L+Mv8ZS8gH6+D4ilWUlp4ulir47aJIVNceYF20Z4Yc9KtpDQ=="
+                length="5781523"
             />
         </item>
         <item>
