@@ -4,7 +4,7 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.4</title>
-            <sparkle:version>18</sparkle:version>
+            <sparkle:version>19</sparkle:version>
             <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
@@ -13,14 +13,15 @@
                     <li>Fixed cloud transcription — audio encoding and model compatibility resolved</li>
                     <li>Fixed credit purchases — credits now appear in your balance immediately</li>
                     <li>Improved auto-type reliability — timeout guard prevents hangs</li>
+                    <li>Sidebar now shows active transcription engine at a glance</li>
                 </ul>
             ]]></description>
-            <pubDate>Wed, 12 Mar 2026 00:20:00 +0000</pubDate>
+            <pubDate>Wed, 12 Mar 2026 01:00:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.4.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="lTWKx5Ap9zwOVcPY6/Sgw/o2ltW9liWSja5uZTjwwSU7X/f3LGdRIlSINO9JWVZZwMoBB4Z9vZMuf/QMUpvCDw=="
-                length="9301253"
+                sparkle:edSignature="AapYqWQSOzfbfOFQAAgVDB+/21R4yNrzZFX6PPUEYeBuMMMxKNyGabZGn9McZFFtA4MoJeaINZaxubTBHJv+DA=="
+                length="9299558"
             />
         </item>
         <item>
