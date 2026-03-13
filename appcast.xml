@@ -4,22 +4,25 @@
         <title>LittleWhisper</title>
         <item>
             <title>Version 1.5</title>
-            <sparkle:version>20</sparkle:version>
+            <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <description><![CDATA[
                 <ul>
-                    <li>Transcriptions now persist reliably across restarts</li>
-                    <li>Active editor indicator in sidebar now updates correctly</li>
-                    <li>Redesigned credits panel — shows balance and estimated time remaining</li>
+                    <li>Multi-select and bulk delete transcriptions from the home feed</li>
+                    <li>Select All with delete-all confirmation warning</li>
+                    <li>Local LLM editor support — use editors fully offline</li>
+                    <li>Editor unavailability indicators across the UI</li>
+                    <li>Fixed LLM model download from gated repositories</li>
+                    <li>Editor model picker now validates API key availability</li>
                 </ul>
             ]]></description>
-            <pubDate>Thu, 12 Mar 2026 18:00:00 +0000</pubDate>
+            <pubDate>Thu, 13 Mar 2026 06:15:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.5.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="x5LWmdgIUhQqv2NQYAVgI38bJgNAASBkzx0WGWk0KB50ZEzG9+ME0CjXlNy/IfOGNmRkfT2+NDLP9qqouNypDA=="
-                length="9313429"
+                sparkle:edSignature="mJNCrmXEMsQe3cnNFLuy6KgZXjOupMv/Db+RHpkxTetJqm7BV/Oq0gAQPfbLtGqIP490yPF0ayyvdPwOstUSAA=="
+                length="12879489"
             />
         </item>
         <item>
