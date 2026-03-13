@@ -3,6 +3,29 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.5.2</title>
+            <sparkle:version>23</sparkle:version>
+            <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Credits now auto-load after sign-in (no restart needed)</li>
+                    <li>Improved onboarding — shows all setup paths: credits, local models, or API keys</li>
+                    <li>Fixed transcription model answering questions instead of transcribing</li>
+                    <li>New editors now get a random emoji icon instead of broken SF Symbol</li>
+                    <li>Clearer rate limit error messages</li>
+                    <li>Pre-filled email on credit purchase checkout</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 13 Mar 2026 22:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.5.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="5OnVFyyqPYIz62bJOM2b06e8wECoWXu+ehYRdL+lcVwf/Kc+hWtf2tHYlNN5GOs7IZvW9m/qvREIyQqHTMT8CQ=="
+                length="12856802"
+            />
+        </item>
+        <item>
             <title>Version 1.5.1</title>
             <sparkle:version>22</sparkle:version>
             <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
