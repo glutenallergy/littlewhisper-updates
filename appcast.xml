@@ -3,6 +3,26 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.5.1</title>
+            <sparkle:version>22</sparkle:version>
+            <sparkle:shortVersionString>1.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed provider switching — you can now switch back from Credits to your own API keys</li>
+                    <li>Cleaner provider card design — logos displayed as titles</li>
+                    <li>Improved audio level diagnostics for recording overlay</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 13 Mar 2026 17:15:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.5.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="GWY/hJ4RwY9iMbPhbR8T5YHTrbl/FMeSKxPeDoIB/IpQJWB9aq8BFQ6NI2Ty2vbQaNyShj+NU5oiwL4KqJ1sDQ=="
+                length="12860501"
+            />
+        </item>
+        <item>
             <title>Version 1.5</title>
             <sparkle:version>21</sparkle:version>
             <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
