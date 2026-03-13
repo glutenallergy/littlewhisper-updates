@@ -3,6 +3,25 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.5.3</title>
+            <sparkle:version>24</sparkle:version>
+            <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed new editor icon — now gets a random emoji automatically</li>
+                    <li>Fixed editor dropdown alignment for consistent icon rendering</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 14 Mar 2026 00:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.5.3.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="Q7QU8rxyfQDCbj7sIm84kZ5CErQe79rNMxzNg1yBkeCq0RSchj8xg8hD3Efy33V9Mzmt/WRTbQ2lGCInv/+SAg=="
+                length="12851580"
+            />
+        </item>
+        <item>
             <title>Version 1.5.2</title>
             <sparkle:version>23</sparkle:version>
             <sparkle:shortVersionString>1.5.2</sparkle:shortVersionString>
