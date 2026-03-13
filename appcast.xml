@@ -3,6 +3,24 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.5.4</title>
+            <sparkle:version>25</sparkle:version>
+            <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed credit purchase checkout — removed email parameter that caused "Service Unavailable" error</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 14 Mar 2026 01:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.5.4.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="SRFvvwpQ82hct8Q/pZioiah7OD4C5V7kkn8QAM5UPvaFMM3XwZ1EIRLuKx3Rwwqk+LzfBsEUWe6pmDDJAulaCg=="
+                length="12851368"
+            />
+        </item>
+        <item>
             <title>Version 1.5.3</title>
             <sparkle:version>24</sparkle:version>
             <sparkle:shortVersionString>1.5.3</sparkle:shortVersionString>
