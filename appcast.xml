@@ -3,6 +3,30 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.0</title>
+            <sparkle:version>26</sparkle:version>
+            <sparkle:shortVersionString>1.6.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved text insertion — works in more apps including Messages and Microsoft Teams</li>
+                    <li>Faster transcription pipeline — reduced app focus delay, background processing for silence detection and rich text conversion</li>
+                    <li>Proactive session refresh — fewer authentication interruptions</li>
+                    <li>Optimized audio upload — pre-allocated buffers for faster network requests</li>
+                    <li>Fixed cloud credits sign-out loop on transcription</li>
+                    <li>Improved sign-in explanation for the macOS authentication prompt</li>
+                    <li>Fixed speed toggle alignment on the Models page</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 18 Mar 2026 18:30:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="gb1sYXTIbjKN0dK4ZOAOHQy7XG7EsuDIRKPNhX6Xy8KRlOF6c3QzB/0EsI1X/3gKYQvEtsNF7ZVC2m0D7PNbDg=="
+                length="12888674"
+            />
+        </item>
+        <item>
             <title>Version 1.5.4</title>
             <sparkle:version>25</sparkle:version>
             <sparkle:shortVersionString>1.5.4</sparkle:shortVersionString>
