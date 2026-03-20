@@ -3,6 +3,25 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.4</title>
+            <sparkle:version>30</sparkle:version>
+            <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed purchase completion — credits and license now activate immediately</li>
+                    <li>Confetti celebration on successful purchase</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 21 Mar 2026 07:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.4.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="WKR6+RPCcePKmOVpE5T6+SiLsphOvEt2JTouqesdoXDKHKSKwrcj/g0m0xPIUAO7jC/1BA9i4+oVopKv8aFqBw=="
+                length="12949439"
+            />
+        </item>
+        <item>
             <title>Version 1.6.3</title>
             <sparkle:version>29</sparkle:version>
             <sparkle:shortVersionString>1.6.3</sparkle:shortVersionString>
