@@ -10,15 +10,16 @@
             <description><![CDATA[
                 <ul>
                     <li>Fixed credit balance not updating after purchase</li>
+                    <li>Fixed false "update entitlement expired" alert</li>
                     <li>License now re-validates on app update</li>
                 </ul>
             ]]></description>
-            <pubDate>Fri, 21 Mar 2026 04:00:00 +0000</pubDate>
+            <pubDate>Fri, 21 Mar 2026 04:30:00 +0000</pubDate>
             <enclosure
                 url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.2.zip"
                 type="application/octet-stream"
-                sparkle:edSignature="vRI721kWYs2DC71ZEV7C/t5JuUhNS8DEcAjZmW6WEKDhg8DBcZXG0Qkt+wZ1n9lNBsdMWuRmPQEFWoaKJh5TAQ=="
-                length="12893975"
+                sparkle:edSignature="O+wI8U79RLL0usWL+blf4g3xPqKxqDRg17khUnFOTzfJGTolwmKlLbAr9GOpdnxe8TNhyJpFEznBJ80klP1ICg=="
+                length="12892589"
             />
         </item>
         <item>
