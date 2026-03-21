@@ -3,6 +3,26 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.5</title>
+            <sparkle:version>31</sparkle:version>
+            <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved editor prompt safety — prevents AI from responding to transcription content that resembles instructions</li>
+                    <li>Fixed app freeze when auto-typing into LittleWhisper's own window</li>
+                    <li>Overlay expand button replaced with dismiss button during formatting</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 21 Mar 2026 08:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.5.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="1hNcYsQMyesQ841VMB9TTlg9ZZD7SxtYNjCkj4DMJV/4P2PMu2/JWpfSNoXyYcmATmHhHWJR6PeXrICXWfjBBQ=="
+                length="12955227"
+            />
+        </item>
+        <item>
             <title>Version 1.6.4</title>
             <sparkle:version>30</sparkle:version>
             <sparkle:shortVersionString>1.6.4</sparkle:shortVersionString>
