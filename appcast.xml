@@ -3,6 +3,24 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.8</title>
+            <sparkle:version>34</sparkle:version>
+            <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Fixed slow navigation between views (lazy rendering for feed)</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 26 Mar 2026 20:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.8.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="YryF3uL1/lrIsmnqgcJJqskpT8GztITZcaYipEcS05GoxkrPGl6bXBqxq+ZkKixK4NUxUX6L7ttqawmXmPvPDA=="
+                length="12991838"
+            />
+        </item>
+        <item>
             <title>Version 1.6.7</title>
             <sparkle:version>33</sparkle:version>
             <sparkle:shortVersionString>1.6.7</sparkle:shortVersionString>
