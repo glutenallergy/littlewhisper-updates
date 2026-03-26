@@ -3,6 +3,30 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.6</title>
+            <sparkle:version>32</sparkle:version>
+            <sparkle:shortVersionString>1.6.6</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved accessibility: reduced-motion support for animations and confetti</li>
+                    <li>Better dark mode contrast for timestamps and subtle labels</li>
+                    <li>Feed row actions (copy, flag, more) now always visible, not just on hover</li>
+                    <li>Settings content capped at comfortable width on large displays</li>
+                    <li>Delete actions now use red color for clearer destructive intent</li>
+                    <li>Dynamic Type support for feed text and sidebar labels</li>
+                    <li>Single-record delete now shows an undo toast instead of a confirmation dialog</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 26 Mar 2026 18:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.6.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="C+iD/Thl5j86FAPKCCZHETJdcJUrRU7UDyWtL9SqkJ4iV1jQj2CyYOi2FmbICYk9xg4GNO7LmnYYazIlhmS4Bg=="
+                length="12992207"
+            />
+        </item>
+        <item>
             <title>Version 1.6.5</title>
             <sparkle:version>31</sparkle:version>
             <sparkle:shortVersionString>1.6.5</sparkle:shortVersionString>
