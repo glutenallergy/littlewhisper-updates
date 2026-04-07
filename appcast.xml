@@ -3,6 +3,25 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.6.9</title>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>1.6.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Refreshed local models: added Whisper Large V3 Turbo and upgraded LLM editors to Gemma 3</li>
+                    <li>Improved cloud editor prompt handling to reduce conversational responses</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 07 Apr 2026 22:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.6.9.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="bi2vUtfT/agCgf6TcsuZk0wUJ2ITfpmKCe8QTjy8g+gAj0e+jVNqEqm33aLFjPnuP8+CVsGuu0Vg206nRGD1CA=="
+                length="13018390"
+            />
+        </item>
+        <item>
             <title>Version 1.6.8</title>
             <sparkle:version>34</sparkle:version>
             <sparkle:shortVersionString>1.6.8</sparkle:shortVersionString>
