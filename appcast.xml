@@ -3,6 +3,25 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.7.0</title>
+            <sparkle:version>37</sparkle:version>
+            <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>New: Edit Selected Text (Option+C) — run editor modes on any selected text without recording</li>
+                    <li>Configurable shortcut in Settings, result copied to clipboard as fallback</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 16 Apr 2026 18:00:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.7.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="T8nt3D55kJ/8I/uoKzTKmKLWdBuAC1p+IEYwZQouVPbxKH/FwqJeH5A2Aazcb5rhJLjRFT0PvVCH1bl3GvXbDw=="
+                length="13079725"
+            />
+        </item>
+        <item>
             <title>Version 1.6.10</title>
             <sparkle:version>36</sparkle:version>
             <sparkle:shortVersionString>1.6.10</sparkle:shortVersionString>
