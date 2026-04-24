@@ -3,6 +3,26 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.7.1</title>
+            <sparkle:version>38</sparkle:version>
+            <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved recording-level visualization so quiet speech now shows visible animation</li>
+                    <li>Fixed Bluetooth microphone lag and startup failures during HFP profile negotiation</li>
+                    <li>Removed license/paywall prompts</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 24 Apr 2026 13:55:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.7.1.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="+JdSGhNKuMqR8UYQ5u0zt4krAy+NOHdj7xnql1naBYTbdmN2kuUJqtVfIId2t1PZfWpXd6h9BPo2QjxfHEAFCw=="
+                length="12944426"
+            />
+        </item>
+        <item>
             <title>Version 1.7.0</title>
             <sparkle:version>37</sparkle:version>
             <sparkle:shortVersionString>1.7.0</sparkle:shortVersionString>
