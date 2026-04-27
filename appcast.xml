@@ -3,6 +3,25 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.7.2</title>
+            <sparkle:version>39</sparkle:version>
+            <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Smoother recording-level animation on Bluetooth — bars no longer freeze between audio chunks</li>
+                    <li>Auto-retry when a Bluetooth mic claims it's ready but doesn't actually deliver audio</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 27 Apr 2026 13:36:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.7.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="1gB2mXpSmmQnGo9a3/wZNtda58wh85mmIZlTv+sLJh09FEVpDOdd3+dAx1q13DzWCke22JfPwa6lARfqwTwTDQ=="
+                length="12950377"
+            />
+        </item>
+        <item>
             <title>Version 1.7.1</title>
             <sparkle:version>38</sparkle:version>
             <sparkle:shortVersionString>1.7.1</sparkle:shortVersionString>
