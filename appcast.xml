@@ -3,6 +3,24 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.7.3</title>
+            <sparkle:version>40</sparkle:version>
+            <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>Improved selection detection so the main hotkey now opens the edit overlay reliably in more apps when text is selected</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 28 Apr 2026 17:53:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.7.3.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="5QWzH6ezI+1nO8Mz5c72cz1jwpFwyxstpeuGZPRRcIdcBoDDef2ihQxygRNIOLMny0Nilok5fB5GXGoC7rCeBA=="
+                length="12954194"
+            />
+        </item>
+        <item>
             <title>Version 1.7.2</title>
             <sparkle:version>39</sparkle:version>
             <sparkle:shortVersionString>1.7.2</sparkle:shortVersionString>
