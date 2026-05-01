@@ -3,6 +3,26 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.8.0</title>
+            <sparkle:version>41</sparkle:version>
+            <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li>New <strong>Dictionary</strong> section in the sidebar — define find-and-replace rules that automatically correct common mistranscriptions (e.g. names, brand spellings)</li>
+                    <li>Each entry takes one or more comma-separated variations and replaces them with your preferred spelling</li>
+                    <li>Matches are whole-word and case-insensitive, applied after any editor mode runs</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 01 May 2026 16:30:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.8.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="y9MlN0nOBrLSrLewHQPLRwWUmFGgvRUoEGEawQ5UGC/8m4Lv5wkRPsTgj2NjNDnaPk9CdP2ejLcHtzZG2+P0Bw=="
+                length="13057912"
+            />
+        </item>
+        <item>
             <title>Version 1.7.3</title>
             <sparkle:version>40</sparkle:version>
             <sparkle:shortVersionString>1.7.3</sparkle:shortVersionString>
