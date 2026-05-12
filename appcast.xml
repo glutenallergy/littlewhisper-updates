@@ -3,6 +3,27 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.9.0</title>
+            <sparkle:version>42</sparkle:version>
+            <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><strong>Auto-pause music</strong> — optional setting that pauses Apple Music or Spotify while you record and resumes when you stop</li>
+                    <li><strong>Dedicated edit-selection shortcut</strong> (default fn+⌃): select text in any app and apply an editor mode to it</li>
+                    <li>Edit-selection now works universally in Microsoft Teams, Claude Desktop, and other Electron apps where the accessibility API doesn’t expose selected text</li>
+                    <li>Dictation hotkey is instant again in every app — the per-press selection probe is gone</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 12 May 2026 14:30:00 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.9.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="BLK0bp+lu7ywvmNjVqS3bCv91F7dglwux75uw+dR37zP36/DvXwbmD8BeiZiPFwpU7sYS0O0EqVIS4uwoaoaBA=="
+                length="13027187"
+            />
+        </item>
+        <item>
             <title>Version 1.8.0</title>
             <sparkle:version>41</sparkle:version>
             <sparkle:shortVersionString>1.8.0</sparkle:shortVersionString>
