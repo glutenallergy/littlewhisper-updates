@@ -3,6 +3,28 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.10.0</title>
+            <sparkle:version>43</sparkle:version>
+            <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><strong>Redesigned editor pages</strong> — the prompt fills the window with live Markdown styling and clearer controls, plus a new <strong>Refine with AI</strong> that rewrites your editor prompt for you</li>
+                    <li><strong>New in-app emoji &amp; icon picker</strong> for editors</li>
+                    <li><strong>Smarter auto-pause</strong> — pauses anything playing (Spotify, Apple Music, browser audio, podcasts) and never starts media that wasn't already playing</li>
+                    <li><strong>Stronger editing</strong> — the AI now edits dictation that sounds like a question or command instead of replying to it</li>
+                    <li>You can now <strong>view and customize the editor guardrail prompt</strong> in Settings</li>
+                </ul>
+            ]]></description>
+            <pubDate>Thu, 25 Jun 2026 18:48:16 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.10.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="mAWs/zk5DwKUN5hnrBSwtIkYBN7R4L3aALsfTeqfHrCxVaVGNvaMc8NnFHr6CxzQk6qTopSj/JlzjRxF4SZuCg=="
+                length="13224129"
+            />
+        </item>
+        <item>
             <title>Version 1.9.0</title>
             <sparkle:version>42</sparkle:version>
             <sparkle:shortVersionString>1.9.0</sparkle:shortVersionString>
