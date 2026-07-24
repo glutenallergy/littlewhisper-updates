@@ -3,6 +3,27 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.10.2</title>
+            <sparkle:version>45</sparkle:version>
+            <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><strong>Edit-selection is now precise</strong> — it only opens when text is actually highlighted. A bare cursor in a text box, app shortcuts that contain your combo, and modifier+click gestures no longer trigger it</li>
+                    <li><strong>Hotkeys heal themselves</strong> — a background watchdog restarts the hotkey listeners if macOS silently disables them (e.g. after sleep), so shortcuts no longer die until the app is relaunched</li>
+                    <li><strong>Dictation always wins</strong> — a leftover edit pill can no longer block the dictation shortcut; the pill is dismissed and recording starts, and an untouched pill auto-dismisses after 30 seconds</li>
+                    <li><strong>Auto-pause music works again</strong> — pauses Apple Music/Spotify only when they're playing and resumes only what it paused, so music that was off stays off</li>
+                </ul>
+            ]]></description>
+            <pubDate>Fri, 24 Jul 2026 15:41:47 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.10.2.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="kQRHzYExDmjVq3shhIgJpw/K0J23vsYnNa0rgNeAOnrnZqB5tG0gM/BAQ6Gw02nn4my7dztD7KfrxJKaYc2wBg=="
+                length="13244943"
+            />
+        </item>
+        <item>
             <title>Version 1.10.0</title>
             <sparkle:version>43</sparkle:version>
             <sparkle:shortVersionString>1.10.0</sparkle:shortVersionString>
