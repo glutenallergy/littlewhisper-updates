@@ -3,6 +3,28 @@
     <channel>
         <title>LittleWhisper</title>
         <item>
+            <title>Version 1.11.0</title>
+            <sparkle:version>46</sparkle:version>
+            <sparkle:shortVersionString>1.11.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[
+                <ul>
+                    <li><strong>No more lost recordings</strong> — fixed several cases where a dictation was silently thrown away (quiet or pause-heavy speech, short phrases like “Thanks!”, Bluetooth mics, AirPods or Zoom switching the microphone mid-recording). If a transcription ever fails, it’s now saved to History with a <strong>Retry</strong> button instead of disappearing</li>
+                    <li><strong>Faster: streaming transcription</strong> — audio is transcribed while you speak (OpenAI and Deepgram), so text is ready about a second sooner after you stop</li>
+                    <li><strong>Track changes</strong> — see exactly what the editor changed in any transcription: removed words, added words, punctuation and capitalization, and line breaks</li>
+                    <li><strong>Latest AI models only</strong> — GPT Transcribe, GPT-6, Claude Haiku 4.5 / Sonnet 5.5 / Opus 5.5, Gemini 3.5 Flash-Lite / 3.8 Flash, Grok 4.20 / 4.7. Retiring models are switched over automatically (this also fixes the Claude editor, which had stopped working)</li>
+                    <li>Fixes a crash when using a downloaded on-device editor model, text occasionally being typed twice, and the hotkey sometimes ignoring a stop press</li>
+                </ul>
+            ]]></description>
+            <pubDate>Wed, 07 Oct 2026 14:51:39 +0000</pubDate>
+            <enclosure
+                url="https://github.com/glutenallergy/littlewhisper-updates/raw/main/LittleWhisper-1.11.0.zip"
+                type="application/octet-stream"
+                sparkle:edSignature="nSTsW1776d7pZPr2MXVRGRgwjCLUbMo3SoyXVCldY2UaIGh0+/sib1XCc2ZPrhBxDjBgqdsjn7TYkZKJ+ESXAQ=="
+                length="13712669"
+            />
+        </item>
+        <item>
             <title>Version 1.10.2</title>
             <sparkle:version>45</sparkle:version>
             <sparkle:shortVersionString>1.10.2</sparkle:shortVersionString>
